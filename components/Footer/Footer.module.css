@@ -1,0 +1,25 @@
+.pos {
+     font-family: cursive;
+     padding: 35px;
+     text-align: center;
+     background-color: #1b1b1b;
+     font-size: 20px;
+     /* background: url(https://i.pinimg.com/originals/fa/c0/5c/fac05c110c458e9bab3a3248bfb3c376.jpg); */
+     background-size: cover;
+     background-position: center center;
+     margin-top: 50px;
+     color: #fff;
+     width: 100%;
+   }
+
+   @media (max-width: 768px) {
+      
+    .pos{
+      width: 700px;
+    }
+    
+  }
+   .cont {
+     margin: 0 auto;
+     /* opacity: 78%; */
+   }
